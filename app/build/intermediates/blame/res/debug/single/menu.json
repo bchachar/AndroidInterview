@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidInterview\\app\\build\\intermediates\\res\\merged\\debug\\menu\\simple_questions.xml",
+        "source": "D:\\AndroidStudioProjects\\AndroidInterview\\app\\src\\main\\res\\menu\\simple_questions.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidInterview\\app\\build\\intermediates\\res\\merged\\debug\\menu\\tough_questions.xml",
+        "source": "D:\\AndroidStudioProjects\\AndroidInterview\\app\\src\\main\\res\\menu\\tough_questions.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidInterview\\app\\build\\intermediates\\res\\merged\\debug\\menu\\front_page.xml",
+        "source": "D:\\AndroidStudioProjects\\AndroidInterview\\app\\src\\main\\res\\menu\\front_page.xml"
+    }
+]

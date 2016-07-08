@@ -1,0 +1,52 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frontpagelayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4ae333" >
+
+    <Button
+        android:id="@+id/bsq"
+        android:layout_width="500dp"
+        android:layout_height="100dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"
+        android:background="@drawable/button_states"
+        android:text="@string/sq"
+        android:textSize="50sp" />
+
+    <Button
+        android:id="@+id/btq"
+        android:layout_width="500dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/bsq"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"
+        android:background="@drawable/button_states"
+        android:text="@string/tq"
+        android:textSize="50sp" />
+
+    <Button
+        android:id="@+id/bseeotherapp"
+        android:layout_width="500dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/btq"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"
+        android:background="@drawable/button_states"
+        android:text="@string/bseeotherapp"
+        android:textSize="50sp" />
+
+    <Button
+        android:id="@+id/brateapp"
+        android:layout_width="500dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/bseeotherapp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"
+        android:background="@drawable/button_states"
+        android:text="@string/rateapp"
+        android:textSize="50sp" />
+
+</RelativeLayout>

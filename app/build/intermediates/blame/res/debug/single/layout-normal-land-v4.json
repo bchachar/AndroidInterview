@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidInterview\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\questions.xml",
+        "source": "D:\\AndroidStudioProjects\\AndroidInterview\\app\\src\\main\\res\\layout-normal-land\\questions.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidInterview\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\front_page.xml",
+        "source": "D:\\AndroidStudioProjects\\AndroidInterview\\app\\src\\main\\res\\layout-normal-land\\front_page.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidInterview\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\question_titlebar.xml",
+        "source": "D:\\AndroidStudioProjects\\AndroidInterview\\app\\src\\main\\res\\layout-normal-land\\question_titlebar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidInterview\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\frontpage_titlebar.xml",
+        "source": "D:\\AndroidStudioProjects\\AndroidInterview\\app\\src\\main\\res\\layout-normal-land\\frontpage_titlebar.xml"
+    }
+]

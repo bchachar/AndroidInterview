@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidInterview\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\question_titlebar.xml",
+        "source": "D:\\AndroidStudioProjects\\AndroidInterview\\app\\src\\main\\res\\layout-large\\question_titlebar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidInterview\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\questions.xml",
+        "source": "D:\\AndroidStudioProjects\\AndroidInterview\\app\\src\\main\\res\\layout-large\\questions.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidInterview\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\front_page.xml",
+        "source": "D:\\AndroidStudioProjects\\AndroidInterview\\app\\src\\main\\res\\layout-large\\front_page.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidInterview\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\frontpage_titlebar.xml",
+        "source": "D:\\AndroidStudioProjects\\AndroidInterview\\app\\src\\main\\res\\layout-large\\frontpage_titlebar.xml"
+    }
+]
