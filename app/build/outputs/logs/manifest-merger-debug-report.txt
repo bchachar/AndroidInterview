@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\AndroidStudioProjects\AndroidInterview\app\src\main\AndroidManifest.xml:2:1-35:12
+ADDED from D:\AndroidStudioProjects\AndroidInterview\app\src\main\AndroidManifest.xml:2:1-33:12
 	package
 		ADDED from D:\AndroidStudioProjects\AndroidInterview\app\src\main\AndroidManifest.xml:3:5-44
 		INJECTED from D:\AndroidStudioProjects\AndroidInterview\app\src\main\AndroidManifest.xml
@@ -35,7 +35,7 @@ MERGED from [com.android.support:support-v4:24.0.0] D:\AndroidStudioProjects\And
 		INJECTED from D:\AndroidStudioProjects\AndroidInterview\app\src\main\AndroidManifest.xml
 		INJECTED from D:\AndroidStudioProjects\AndroidInterview\app\src\main\AndroidManifest.xml
 application
-ADDED from D:\AndroidStudioProjects\AndroidInterview\app\src\main\AndroidManifest.xml:11:5-33:19
+ADDED from D:\AndroidStudioProjects\AndroidInterview\app\src\main\AndroidManifest.xml:11:5-31:19
 MERGED from [com.android.support:appcompat-v7:24.0.0] D:\AndroidStudioProjects\AndroidInterview\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:24.0.0] D:\AndroidStudioProjects\AndroidInterview\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-vector-drawable:24.0.0] D:\AndroidStudioProjects\AndroidInterview\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\AndroidManifest.xml:23:5-20
@@ -68,14 +68,14 @@ ADDED from D:\AndroidStudioProjects\AndroidInterview\app\src\main\AndroidManifes
 	android:name
 		ADDED from D:\AndroidStudioProjects\AndroidInterview\app\src\main\AndroidManifest.xml:22:27-74
 activity#com.bchachar.androidinterview.SimpleQuestions
-ADDED from D:\AndroidStudioProjects\AndroidInterview\app\src\main\AndroidManifest.xml:25:9-28:20
+ADDED from D:\AndroidStudioProjects\AndroidInterview\app\src\main\AndroidManifest.xml:25:9-27:80
 	android:label
 		ADDED from D:\AndroidStudioProjects\AndroidInterview\app\src\main\AndroidManifest.xml:27:13-68
 	android:name
 		ADDED from D:\AndroidStudioProjects\AndroidInterview\app\src\main\AndroidManifest.xml:26:13-44
 activity#com.bchachar.androidinterview.ToughQuestions
-ADDED from D:\AndroidStudioProjects\AndroidInterview\app\src\main\AndroidManifest.xml:29:9-32:20
+ADDED from D:\AndroidStudioProjects\AndroidInterview\app\src\main\AndroidManifest.xml:28:9-30:79
 	android:label
-		ADDED from D:\AndroidStudioProjects\AndroidInterview\app\src\main\AndroidManifest.xml:31:13-67
+		ADDED from D:\AndroidStudioProjects\AndroidInterview\app\src\main\AndroidManifest.xml:30:13-67
 	android:name
-		ADDED from D:\AndroidStudioProjects\AndroidInterview\app\src\main\AndroidManifest.xml:30:13-43
+		ADDED from D:\AndroidStudioProjects\AndroidInterview\app\src\main\AndroidManifest.xml:29:13-43

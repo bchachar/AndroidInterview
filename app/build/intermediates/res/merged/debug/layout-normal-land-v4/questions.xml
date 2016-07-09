@@ -4,14 +4,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:weightSum="100" >
+    android:weightSum="100">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="8"
         android:background="#f0a64a"
-        android:gravity="center" >
+        android:gravity="center">
 
         <TextView
             android:id="@+id/tvxx"
@@ -33,7 +33,7 @@
         android:layout_height="0dp"
         android:layout_weight="80"
         android:background="#eedec5"
-        android:orientation="vertical" >
+        android:orientation="vertical">
 
         <TextView
             android:id="@+id/tvquestion"
@@ -46,12 +46,12 @@
         <ScrollView
             android:id="@+id/scrollView1"
             android:layout_width="match_parent"
-            android:layout_height="match_parent" >
+            android:layout_height="match_parent">
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:orientation="vertical" >
+                android:orientation="vertical">
 
                 <TextView
                     android:id="@+id/tvanswer"
@@ -69,7 +69,7 @@
         android:layout_height="0dp"
         android:layout_weight="12"
         android:background="#f0a64a"
-        android:gravity="center|center_horizontal" >
+        android:gravity="center|center_horizontal">
 
         <Button
             android:id="@+id/bleft"
@@ -81,7 +81,7 @@
             android:id="@+id/bshowanswer"
             android:layout_width="30dp"
             android:layout_height="30dp"
-            android:background="@drawable/a_button"/>
+            android:background="@drawable/a_button" />
 
         <Button
             android:id="@+id/bright"

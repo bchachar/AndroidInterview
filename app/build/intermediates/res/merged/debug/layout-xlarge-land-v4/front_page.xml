@@ -1,9 +1,8 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/frontpagelayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#4ae333" >
+    android:background="#4ae333">
 
     <Button
         android:id="@+id/btq"

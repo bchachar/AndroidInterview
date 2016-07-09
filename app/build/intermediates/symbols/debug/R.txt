@@ -503,7 +503,6 @@ int id action_menu_presenter 0x7f0b0003
 int id action_mode_bar 0x7f0b0042
 int id action_mode_bar_stub 0x7f0b0041
 int id action_mode_close_button 0x7f0b0026
-int id action_settings 0x7f0b0075
 int id activity_chooser_view_content 0x7f0b0027
 int id add 0x7f0b0013
 int id alertTitle 0x7f0b0033

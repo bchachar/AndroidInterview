@@ -24,12 +24,10 @@
         </activity>
         <activity
             android:name="com.bchachar.androidinterview.SimpleQuestions"
-            android:label="@string/title_activity_simple_questions" >
-        </activity>
+            android:label="@string/title_activity_simple_questions" />
         <activity
             android:name="com.bchachar.androidinterview.ToughQuestions"
-            android:label="@string/title_activity_tough_questions" >
-        </activity>
+            android:label="@string/title_activity_tough_questions" />
     </application>
 
 </manifest>
